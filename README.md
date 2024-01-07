@@ -1,4 +1,5 @@
 Javaを使ったRuntime Permissionのサンプル<br>
+https://developer.android.com/reference/android/Manifest.permission<br>
 
 # development env
 ```
